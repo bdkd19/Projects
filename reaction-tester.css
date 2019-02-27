@@ -1,0 +1,13 @@
+ body{
+            background-color: bisque;
+            font-family:sans-serif;
+        }
+        #shape{
+            width: 200px;
+            height: 200px;
+            background-color: blue;
+            display: none;
+            position: relative;
+            border-radius: 50%;
+
+        }
